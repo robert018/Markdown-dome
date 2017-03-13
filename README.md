@@ -17,7 +17,7 @@ test Maekdown
 [google](http://www.google.com)
 ![](http://livedoor.blogimg.jp/news101/imgs/9/0/90396bf1.jpg)
 
-'''
+```
 GitHub中Fork 即是 服务端的仓库克隆，包含了原来的仓库（即upstream repository，上游仓库）所有内容，如分支、Tag、提交；代码托管服务（如Github、BitBucket）提供了方便的完成Fork操作的功能（在仓库页面点一下Fork按钮）。这样有了一个你自己的可以自由提交的仓库，然后可以通过的PullRequest把你的提交贡献给 原仓库。
 
 作者：李鼎
@@ -25,4 +25,4 @@ GitHub中Fork 即是 服务端的仓库克隆，包含了原来的仓库（即up
 来源：知乎
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
-'''
+```
