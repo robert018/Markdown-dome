@@ -29,4 +29,10 @@ GitHub中Fork 即是 服务端的仓库克隆，包含了原来的仓库（即up
 |大大大|iii|
 
 ![][1]
-[[1]:http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1](http//:www.google.com)
+[1]:http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
+
+dog | bird | cat
+----|------|----
+foo | foo  | foo
+bar | bar  | bar
+baz | baz  | baz
