@@ -13,6 +13,7 @@ test Maekdown
 - first line
 - sec line
 - third line
-
+[google](www.google.com)
+![](http://livedoor.blogimg.jp/news101/imgs/9/0/90396bf1.jpg)
 
 
